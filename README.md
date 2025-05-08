@@ -11,9 +11,6 @@
   <a href="https://www.hackerrank.com/aswathi4882" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank" alt="HackerRank"/>
   </a>
-  <a href="https://stackoverflow.com/users/YOUR_ID/aswathimanoj" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-Connect-orange?logo=stackoverflow" alt="StackOverflow"/>
-  </a>
 </p>
 
 ---
@@ -97,9 +94,6 @@ To build **innovative projects**, contribute to **open-source communities**, and
   </a>
   <a href="https://www.hackerrank.com/aswathi4882" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank" alt="HackerRank"/>
-  </a>
-  <a href="https://stackoverflow.com/users/YOUR_ID/aswathimanoj" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-Connect-orange?logo=stackoverflow" alt="StackOverflow"/>
   </a>
 </p>
 
