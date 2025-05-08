@@ -1,11 +1,10 @@
 <h1 align="center">Hey, I'm ASWATHI MANOJ</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aswathimanoj" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/></a>
-<a href="https://stackoverflow.com/users/YOUR_ID/aswinac" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="30" height="30"/></a>
+<a href="https://linkedin.com/in/" target="_blank"><img src="https://raw.githubusercontent.com/aswathimanoj0/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/></a>
+<a href="https://stackoverflow.com/users/YOUR_ID/aswathimanoj" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="30" height="30"/></a>
 <a href="https://www.hackerrank.com/@aswathi4882" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30"/></a>
 <a href="https://leetcode.com/dowmiia5to" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/></a>
 </p>
